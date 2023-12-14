@@ -1,0 +1,9 @@
+#textoPrincipal {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #444;
+    color: #000;
+    padding: 10px;
+}
+
+/*Se colocar em um arquivo separado, precisa chamar ele na pagina por um link abaixo do title.*/
